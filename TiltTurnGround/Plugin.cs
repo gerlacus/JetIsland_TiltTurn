@@ -22,7 +22,7 @@ namespace TiltTurnGround
 		}
 		public string Version
 		{
-			get { return "0.1"; }
+			get { return "0.2"; }
 		}
 
 		public void OnApplicationQuit()
