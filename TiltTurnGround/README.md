@@ -3,4 +3,4 @@ A movement mod for VR hoverboarding/jetpacking/grapple-hooking masterpiece [Jet 
 
 Compatible with both standard mode and Extreme Spin mode. Installation instructions can be found [here](https://mods.jet-is.land/how-to-install/).
 
-Tilt Turn (Air) companion mod for aerobatics is currently under development!
+Want to control your board in the air too? Check out [Tilt Turn (Air)](https://github.com/gerlacus/JetIsland_TiltTurn/tree/master/TiltTurnAir)!
